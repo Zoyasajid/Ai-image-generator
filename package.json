@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fal-ai/serverless-client": "^0.14.2",
+    "@fal-ai/serverless-proxy": "^0.9.0",
+    "axios": "^1.7.5",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.4",
+    "next": "14.2.7",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.7"
+    "react-icons": "^5.3.0"
   },
   "devDependencies": {
     "postcss": "^8",
